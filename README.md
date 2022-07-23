@@ -8,25 +8,13 @@
 
 ### Java
 
-<table style = 'text-align: center'>
-  <tr>
-    <td rowspan = 4>数据类型</td>
-  </tr>
-  <tr>
-    <td>浮点型</td>
-  </tr>
-  <tr>
-    <td>char 类型</td>
-  </tr>
-  <tr>
-    <td>Unicode 和 char 类型</td>
-  </tr>
-  <tr>
-    <td>lambda 表达式</td>
-  </tr>
-  <tr>
-    <td>内部类</td>
-  </tr>
+<table>
+  <tr><td rowspan = 4>数据类型</td></tr>
+  <tr><td>浮点型</td></tr>
+  <tr><td>char 类型</td></tr>
+  <tr><td>Unicode 和 char 类型</td></tr>
+  <tr><td>lambda 表达式</td></tr>
+  <tr><td>内部类</td></tr>
 </table>
 
 ### Java 虚拟机
