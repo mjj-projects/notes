@@ -1,35 +1,45 @@
 ## 简介
 
-本项目是一个学习项目，用于记录本人在学习过程中的笔记。本项目主要将「未完全理解」或「存疑」的知识点进行记录与分析，以巩固对其知识点的理解和掌握。
+本项目属于个人学习项目，主要用于梳理学习流程，记录学习内容与学习笔记。
 
-> 如何验证理解和掌握程度？
-
-本人通过「笔记」来验证自己的理解程度，通过「示例」来验证自己的掌握程度。
-
-—— **个人观点：完全理解，可以记录下来或讲给别人听等等；完全掌握，需要不断的实践和试错。**
+由于本人是一名 Java 语言开发者，需要学习的内容很多，技术栈的要求也很深。因此，为了提高自己的学习效率，改变自己的学习方式，方便自己以后的复习，最终创建了这个项目。
 
 ## 目录
 
-* [Java](#Java)
-* [设计模式](#设计模式)
-* [多线程与并发](#多线程与并发)
+### Java
 
-**Ps：** 建议使用 Typora 工具打开 .md 文件，因为笔记中可能包含数学公式。
+<table style = 'text-align: center'>
+  <tr>
+    <td rowspan = 4>数据类型</td>
+  </tr>
+  <tr>
+    <td>浮点型</td>
+  </tr>
+  <tr>
+    <td>char 类型</td>
+  </tr>
+  <tr>
+    <td>Unicode 和 char 类型</td>
+  </tr>
+  <tr>
+    <td>lambda 表达式</td>
+  </tr>
+  <tr>
+    <td>内部类</td>
+  </tr>
+</table>
 
-## Java
+### Java 虚拟机
 
-本章是本人在阅读《Java 核心技术·卷I》《Java 核心技术·卷II》时所创建，用于记录本人在复习 Java 基础的疑问知识笔记。
+### 设计模式
 
-* [基本数据类型](https://github.com/mjj-projects/notes/tree/main/java/core-java-I/chapter-3)
+<table style = 'text-align: center'>
+  <tr>
+    <td>策略模式</td>
+  </tr>
+  <tr>
+    <td>观察者模式</td>
+  </tr>
+</table>
 
-## 设计模式
-
-本章是本人在阅读《Head First 设计模式》时所创建，用于记录本人在学习 Java 设计模式的笔记和案例。
-
-* 策略模式
-* [观察者模式](https://github.com/mjj-projects/notes/tree/main/design-patterns/observer)
-
-
-## 多线程与并发
-
-本章是本人在阅读《Java 并发编程实战》时所创建，用于记录本人在学习多线程的笔记和案例。
+### 多线程与并发
