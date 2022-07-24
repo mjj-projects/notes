@@ -2,9 +2,7 @@
 
 在 Java 虚拟机中，类的加载过程可分五个阶段：加载、验证、准备、解析、初始化。如下图：
 
-<center>
-    <img src = "https://s2.loli.net/2022/07/23/clE4eINr3RMjSaH.png" width = 720>
-</center>
+<div align = center><img src = "https://s2.loli.net/2022/07/23/clE4eINr3RMjSaH.png" width = 720></div>
 
 ## 加载（Loadding）
 
